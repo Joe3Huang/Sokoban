@@ -1,0 +1,116 @@
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Filer_View.Form1.resources
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Filer_View.InputForm.resources
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+C:\Users\JOE3\Documents\Visual Studio 2015\Projects\Sokoban\Sokoban\obj\Debug\Sokoban.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\Sokoban.exe.config
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Sokoban.exe
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Filer.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Filer.InputForm.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Sokoban.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\Sokoban.exe
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\mscorlib.dll
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\System.Net.Http.dll
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\System.Net.Http.xml
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\normidna.nlp
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\normnfc.nlp
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\normnfd.nlp
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\normnfkc.nlp
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.1\Sokoban\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Filer.Form1.resources
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Filer.InputForm.resources
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Sokoban.Form1.resources
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\Administrator\Desktop\C#study\sokoben\SokobanV0.2\Sokoban\obj\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\bin\Debug\Sokoban.exe.config
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Sokoban.exe
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\bin\Debug\Sokoban.exe
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\bin\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Filer.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Filer.InputForm.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Sokoban.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.21\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\bin\Debug\Sokoban.exe.config
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Sokoban.exe
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\bin\Debug\Sokoban.exe
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\bin\Debug\Sokoban.pdb
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Filer.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Filer.InputForm.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Sokoban.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+\\ADFSSTUD1\v-z\zih0029\WindowsSettings\Desktop\C#\SOKOBEN\SokobanV0.22\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Sokoban.pdb
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Filer.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Filer.InputForm.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Sokoban.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.23\Sokoban\obj\Debug\Game.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Sokoban.pdb
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Filer.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Filer.InputForm.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Sokoban.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Game.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.3\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.pdb
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Filer.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Filer.InputForm.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Game.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\LevelDesigner.Form1.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\LevelDesigner.Warning.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\bin\Debug\Sokoban.exe.manifest
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\bin\Debug\Sokoban.application
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.exe.manifest
+C:\Users\JOE3\Desktop\C#\SokobanV0.4\Sokoban\obj\Debug\Sokoban.application
